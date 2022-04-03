@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Indira
+- 👀 I’m currently learning REACT
